@@ -1,8 +1,8 @@
 #include <iostream>
 #include <stdexcept>
-// #include "../0_headers/universe_headers/universe.h"
+#include "../0_headers/universe_headers/universe.h"
 #pragma once
-#include "../universe/universe.cpp"
+// #include "../universe/universe.h"
 class Organism
 {
 private:

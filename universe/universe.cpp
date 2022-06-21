@@ -2,9 +2,9 @@
 #include <cstdlib>
 #include <time.h>
 #define alpha 0.5
-#pragma once
-// #include "../0_headers/organisms_headers/organism.h"
-#include "../organisms/organism.cpp"
+// #pragma once
+#include "../0_headers/organisms_headers/organism.h"
+// #include "../organisms/organism.cpp"
 namespace universe
 {
     class Universe
